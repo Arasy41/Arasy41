@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FFuzzballs-cute-kawaii-fuzzballs-H7Yxpnkuan2AqWrhjj&psig=AOvVaw1AHXibUPTeNmpkS2yv0QI0&ust=1712301443511000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC-g4yCqIUDFQAAAAAdAAAAABAJ
+![Halo!](https://media1.giphy.com/media/WhoNyvVjuB88HjDK0l/giphy.gif?cid=6c09b9527r0wmzto7u06bvzt4r1e948kffha7c9aaqbncm09&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## Hi, Welcome ☕!
 
