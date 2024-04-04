@@ -8,7 +8,7 @@ Saya adalah Afif Al Arasyi, saya sangat tertarik dengan dunia web development kh
 #### Proyek Utama
 Berikut beberapa proyek yang pernah saya kerjakan:
 1. [NodeJS-Express-RestAPI](https://github.com/Arasy41/nodejs-express-restapi): Membuat Simple Rest API menggunakan Express JS.
-2. [GoRestAPI-GORM](https://github.com/Arasy41/golang-restapi-gorm): Mmebuat Rest API clone Cineplex21 dengan Bahasa Pemrograman Go dengan GORM.
+2. [GoRestAPI-GORM](https://github.com/Arasy41/golang-restapi-gorm): Membuat Rest API clone Cineplex21 dengan Bahasa Pemrograman Go dengan GORM.
 
 #### Hubungi Saya
 Jika Anda ingin berdiskusi atau memiliki pertanyaan tentang proyek-proyek saya, jangan ragu untuk menghubungi saya melalui email di afifarsyi@gmail.com atau melalui https://www.linkedin.com/in/afif-al-arasyi-3a7254290.
