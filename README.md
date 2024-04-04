@@ -1,4 +1,4 @@
-![Halo!](https://media1.giphy.com/media/WhoNyvVjuB88HjDK0l/giphy.gif?cid=6c09b9527r0wmzto7u06bvzt4r1e948kffha7c9aaqbncm09&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![Halo!](https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif)
 
 ## Hi, Welcome ☕!
 
