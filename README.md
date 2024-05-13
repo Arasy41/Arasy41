@@ -1,4 +1,4 @@
-![Halo!](https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif)
+![Halo!]([https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif](https://media1.giphy.com/media/Cg9oeBXqFayCq26ggf/source.gif))
 
 ## Hi, Welcome ☕!
 
