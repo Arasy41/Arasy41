@@ -13,6 +13,12 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Arasy41?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+<!--### 📊 Stats-->
+
+<!-- ![Arasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasy41&show_icons=true&theme=gruvbox) -->
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Arasy41&theme=gruvbox&border_radius=4.5) -->
+
 ---
 
 ### 🧰 Languages and Tools
