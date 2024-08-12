@@ -1,6 +1,8 @@
-# Hi! My Name Afif Al Arasyi
+# 🚀 Afif Al Arasyi
 
 **`Backend Developer`**
+
+<img align="center" alt="Hello" width="100px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
 I'm a passionate Backend Developer with a strong foundation in backend technologies and a love for solving complex problems. My primary focus is on building efficient and scalable APIs, with hands-on experience in languages like Go and JavaScript. I'm always eager to learn new tools and technologies to enhance my skills.
 
@@ -15,7 +17,7 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
