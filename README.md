@@ -13,6 +13,8 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Arasy41?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+---
+
 ### 📊 Stats
 
 ![Arasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasy41&show_icons=true&theme=gruvbox)
@@ -33,11 +35,11 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />          
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />        
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+---
 
 <details>
  <summary><h3>👨💻 Afif's Coding Journey</h3></summary>
