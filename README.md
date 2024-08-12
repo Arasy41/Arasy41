@@ -1,4 +1,4 @@
-# 📍 Afif Al Arasyi
+# Hi! My Name Afif Al Arasyi
 
 **`Backend Developer`**
 
@@ -16,7 +16,6 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -26,6 +25,7 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql postgresql-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
@@ -33,7 +33,7 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 
 <details>
  <summary><h3>👨💻 Afif's Coding Journey</h3></summary>
-   I began my coding journey with a keen interest in backend development. Over time, I've mastered various programming languages and tools, including Go, TypeScript, and Node.js. My focus is on building scalable and efficient backend systems, and I'm continuously expanding my knowledge in this field. My GitHub portfolio showcases some of my key projects, including a REST API built with Express.js and a Go REST API using GORM. I'm always open to new challenges and opportunities to collaborate on interesting projects.
+   I began my coding journey with a keen interest in backend development. Over time, I've mastered various programming languages and tools, including Go, SQL, and Node.js. My focus is on building scalable and efficient backend systems, and I'm continuously expanding my knowledge in this field. My GitHub portfolio showcases some of my key projects, including a REST API built with Express.js and a Go REST API using GORM. I'm always open to new challenges and opportunities to collaborate on interesting projects.
 </details>
 
 ---
@@ -41,7 +41,7 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 ### 🌟 Notable Projects
 
 1. [NodeJS-Express-RestAPI](https://github.com/Arasy41/nodejs-express-restapi): A simple REST API built with Express.js.
-2. [GoRestAPI-GORM](https://github.com/Arasy41/golang-restapi-gorm): A REST API clone of Cineplex21 developed using Go and GORM.
+2. [GoRestAPI-GORM](https://github.com/Arasy41/golang-restapi-gorm): A REST API clone of Cineplex21 developed using Go Fiber and GORM.
 
 ---
 
@@ -51,4 +51,4 @@ If you have any questions or want to discuss potential collaborations, feel free
 
 ---
 
-Terima kasih atas kunjungan Anda! 👋
+Thank you for your visit! 👋
