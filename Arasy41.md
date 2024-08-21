@@ -54,6 +54,7 @@ I'm a passionate Backend Developer with a strong foundation in backend technolog
 
 1. [NodeJS-Express-RestAPI](https://github.com/Arasy41/nodejs-express-restapi): A simple REST API built with Express.js.
 2. [GoRestAPI-GORM](https://github.com/Arasy41/golang-restapi-gorm): A REST API clone of Cineplex21 developed using Go Fiber and GORM.
+3. [NodeJS-LoginRegister](https://github.com/Arasy41/NodeJS-LoginRegister) : A full-stack NodeJS and NextJS user login and registration
 
 ---
 
