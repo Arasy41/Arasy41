@@ -1,6 +1,6 @@
 # 🚀 Afif Al Arasyi
 
-**`Full Stack & ERP Developer`**
+**`Full Stack`**
 
 <img align="center" alt="Hello" width="100px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
