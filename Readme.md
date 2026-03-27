@@ -1,10 +1,10 @@
 # 🚀 Afif Al Arasyi
 
-**`Full Stack`**
+**`Full Stack Developer`**
 
 <img align="center" alt="Hello" width="100px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
-I'm a passionate Backend Developer with a strong foundation in backend technologies and a love for solving complex problems. My primary focus is on building efficient and scalable APIs, with hands-on experience in languages like Go and JavaScript. I'm always eager to learn new tools and technologies to enhance my skills.
+I'm a passionate Backend Developer with a strong foundation in backend technologies and a love for solving complex problems. My primary focus is on building efficient and scalable APIs, with hands-on experience in languages like Go and JavaScript. I'm always eager to learn new tools and technologies to enhance my skills. 
 
 <p align="left">
    <a href="https://github.com/Arasy41?tab=followers">
